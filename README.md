@@ -1,6 +1,8 @@
 # Pasticceria Simulation System
-
+## Grade : 30 / 30
 This project is part of the final assignment for the **Algorithms and Data Structures** course (2023-2024). It implements a simulation system for an industrial pastry shop, designed to manage orders, ingredient inventory, recipes, and delivery logistics in a time-discrete environment.
+
+
 
 ## Features
 
