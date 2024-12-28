@@ -4,15 +4,6 @@ This project is part of the final assignment for the **Algorithms and Data Struc
 
 
 
-## Features
-
-- **Recipe Management**: Add, remove, and manage recipes, each defined by specific ingredient requirements.
-- **Ingredient Inventory**: Maintain an inventory with supply schedules and expiration dates for ingredients.
-- **Order Processing**: Handle customer orders for various pastries, with real-time preparation and prioritization based on available resources.
-- **Pending Orders Management**: Queue orders that cannot be fulfilled immediately and process them as resources become available.
-- **Delivery System**: Periodically dispatch ready orders using a delivery truck with weight and capacity constraints.
-- **Prioritization Logic**: Optimize ingredient usage by selecting batches close to expiration and prioritize pending orders chronologically.
-
 ## Simulation Details
 
 - **Data Structures Used**: 
