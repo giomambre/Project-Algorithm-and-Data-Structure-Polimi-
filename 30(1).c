@@ -1,7 +1,5 @@
 // INIZIATO IL 04/08/2024 11.23
 
-/* to do:
-    hash table per ricette */
 
 #include <stdio.h>
 #include <stdlib.h>
